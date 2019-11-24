@@ -1,6 +1,6 @@
 # 52-Programming-Problems-from-dimikOJ
 
-All the 52 problems from dimikOJ were solved (in C programming language).
+All the 52 problems from dimikOJ were solved.
 
 Actually, I did this for a GitHub testing purpose.
 
